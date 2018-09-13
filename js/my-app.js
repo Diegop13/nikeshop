@@ -27,7 +27,13 @@ var myApp = new Framework7({
 		path: '/info-producto/',
     	url: 'info-producto.html',
     	name: 'info-producto',
-  		}
+  		},
+		
+		{
+		path: '/ejercicio/',
+    	url: 'ejercicio.html',
+    	name: 'ejercicio',	
+		}
 	]
 });
 
